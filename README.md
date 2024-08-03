@@ -1,5 +1,3 @@
-# odin-recipes
-
 # Recipe Webpage Project
 
 ## Description
